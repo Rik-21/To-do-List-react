@@ -1,3 +1,15 @@
+# To-do List
+To-do List with add task and delete task feature
+
+### Demo Screeshots of the To-do List
+
+![Gamics Desktop Demo](./ReadmeImg/1.png "To-do List")
+<h3>Tasks added</h3>
+
+![Gamics Desktop Demo]( ./ReadmeImg/2.png "To-do List")
+<h3>Tasks deleted</h3>
+<br>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
